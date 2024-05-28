@@ -1,3 +1,3 @@
 # sample
 demo project
-author sanooni
+author sana
